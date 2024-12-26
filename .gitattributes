@@ -1,9 +1,12 @@
+# Ensure specific files are detected as certain languages
 *.py linguist-detectable=true
 *.dart linguist-detectable=true
-*.cmake linguist-detectable=false
+
+# Ensure specific files are not detected by linguist
 *.cpp linguist-detectable=false
 *.h linguist-detectable=false
 *.swift linguist-detectable=false
+*.cmake linguist-detectable=false
 *.cmake.in linguist-detectable=false
 *.c linguist-detectable=false
 *.java linguist-detectable=false
