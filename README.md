@@ -223,5 +223,5 @@ Special thanks to the open-source contributors and the developers of Python libr
 ---
 
 ## Additional Resources
-For more detailed information on the implementation and results of this project, please refer to the ![Project Report](https://drive.google.com/file/d/17QnKxqzXBB2fWX2wN9wzlal0dphwhEFD/view?usp=drive_link).
+For more detailed information on the implementation and results of this project, please refer to the [Project Report](https://drive.google.com/file/d/17QnKxqzXBB2fWX2wN9wzlal0dphwhEFD/view?usp=drive_link).
 
