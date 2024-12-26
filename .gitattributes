@@ -2,6 +2,7 @@
 *.py linguist-detectable=true
 *.dart linguist-detectable=true 
 *.cpp linguist-detectable=false  
+*.cmake linguist-detectable=false
 
 
 
