@@ -1,3 +1,5 @@
-*.cpp linguist-detectable=false   
+*.py linguist-detectable=true
+*.cpp linguist-detectable=false 
+*.cmake linguist-detectable=falsث
 *.cmake.in linguist-detectable=false
 *.swift linguist-detectable=false
