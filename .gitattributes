@@ -1,8 +1,12 @@
 *.py linguist-detectable=true
 *.dart linguist-detectable=true
-*.csharp linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.swift linguist-detectable=false
+*.cmake linguist-detectable=false
+*.cmake.in linguist-detectable=false
+*.c linguist-detectable=false
 *.java linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
-  
