@@ -3,3 +3,4 @@
 *.cmake linguist-detectable=falsث
 *.cmake.in linguist-detectable=false
 *.swift linguist-detectable=false
+*.html linguist-detectable=false  
