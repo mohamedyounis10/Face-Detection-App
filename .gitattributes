@@ -2,7 +2,7 @@
 *.py linguist-detectable=true
 *.dart linguist-detectable=true
 *.csharp linguist-detectable=true  
-*.cpp linguist-detectable=true  
+*.c++ linguist-detectable=true  
 
 
 
