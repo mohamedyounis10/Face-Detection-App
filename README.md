@@ -25,13 +25,13 @@ The system processes images to detect faces and highlights them with bounding bo
 
 ## Images
 
-### 1. **Mobile App Screen **  
+### 1. Mobile App Screen
 
 ![Mobile App](https://github.com/user-attachments/assets/9060f7d6-44cd-4343-8e1f-17e4b3768b1f)
 
 ---
 
-### 2. **Example Outputs**  
+### 2. Example Outputs  
 After running the face detection script, various intermediate results will be produced. Below are the outputs of the process:
 
 - **Original Image with Detected Faces**:  
